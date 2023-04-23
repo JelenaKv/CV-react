@@ -7,7 +7,7 @@ function Iskustvo() {
                         <th colSpan={2}><h2>ISKUSTVO</h2></th>
                     </tr>
                     <tr>
-                        <td colSpan={2}>Završni rad: Sustav za upravljanje koračnim motorom</td>
+                        <td colSpan={2}>Završni rad: Sustav za upravljanje koračnim motorom <a href="https://github.com/JelenaKv/Arduino-stepper-motor-control">DETALJNIJE</a></td>
                     </tr>
                     <tr>
                         <td colSpan={2}>Projekt u Verilogu: Alarmni sustav na Xilinx Spartan 3E FPGA-u</td>
