@@ -16,7 +16,7 @@ function Podaci() {
           </tr>
           <tr>
             <td>e-mail:</td>
-            <td><a href="mailto:jkvesi01@fesb.hr? Subject=e-mail">jkvesi01fesb.hr </a></td>
+            <td><a href="mailto:jkvesi01@fesb.hr? Subject=e-mail">jkvesi01@fesb.hr </a></td>
           </tr>
           <tr>
             <td>Kontakt:</td>
